@@ -22,4 +22,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <distributionManagement>
+    <repository>
+      <id>mylocal</id>
+      <name>mylocal</name>
+      <url>http://artifactory.aspetraininglab.com:8081/artifactory/sridh-maven-local</url>
+    </repository>
+  </distributionManagement>
 </project>
