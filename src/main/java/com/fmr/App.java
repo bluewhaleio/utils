@@ -13,6 +13,6 @@ public class App
         System.out.println( "Hello World!" );
         Utils u = new Utils("sridharalla");
 
-        cSystem.out.println(u.getName());
+        System.out.println(u.getName());
     }
 }
