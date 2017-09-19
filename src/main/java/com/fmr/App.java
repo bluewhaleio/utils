@@ -3,7 +3,7 @@ package com.fmr;
 import com.fmr.AP1234.Utils;
 
 /**
- * Hello world!
+ * Hello world for pink portal
  *
  */
 public class App 
